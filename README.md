@@ -3,7 +3,7 @@
 
 <!--<!-- Cover Image -->
 <p align="center">
-  <img src="/mnt/data/faizan-cover.png.png" alt="Mohammad Faizan Haider Cover" />
+  
   <br clear="both">
 <p align="center">
    <img src="https://visitor-badge.laobi.icu/badge?page_id=.MohammadFaizanHaider&"  />
