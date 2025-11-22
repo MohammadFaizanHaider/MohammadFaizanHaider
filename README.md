@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/MohammadFaizanHaider/MohammadFaizanHaider/blob/master/images/faizan-Cover.png)
+![MasterHead](https://github.com/MohammadFaizanHaider/MohammadFaizanHaider/blob/main/faizan-cover.png.png)
 ## Hi there 👋
 
 <!--<!-- Cover Image -->
