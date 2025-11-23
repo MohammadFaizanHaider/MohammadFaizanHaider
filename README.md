@@ -32,7 +32,7 @@
 ## 🌟 About Me
 
 - 👨‍💻 Passionate **Web Developer**
-- 🌱 Currently learning **JavaScript, PHP & SQL**
+- 🌱 Currently learning **JavaScript, PHP & MySQL**
 - 💡 Love creating clean & responsive designs
 - ⭐ Future Goal: Become a **Full-Stack Developer**
 
